@@ -1,0 +1,1 @@
+This is a from the tutorial by Traversy Media on how to design a basic Parallax page. This link to the video is: https://www.youtube.com/watch?v=JttTcnidSdQ
