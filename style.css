@@ -1,0 +1,13 @@
+body, html{
+    height:100%;
+    margin:0;
+    font-size: 16px;
+    font-family:'lato', sans-serif;
+    font-weight:400;
+    line-height: 1.8em;
+    color: #666;
+}
+
+.pimg1{
+    background-image:url("http://res.cloudinary.com/rhyjudd/image/upload/v1521622713/pexels-photo-378570_g8dib1.jpg");
+}
